@@ -7,3 +7,5 @@ seaborn
 jupyter
 ipykernel
 python-dotenv
+scikit-learn
+optbinning
